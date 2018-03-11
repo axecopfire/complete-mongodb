@@ -20,3 +20,7 @@ then installed defaults
 
 #### Promises
 ---
+
+
+ORM - Object Relational mapper
+ODM - object data mapping
